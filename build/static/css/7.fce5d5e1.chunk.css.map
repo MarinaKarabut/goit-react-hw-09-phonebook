@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/client/NotFoundPage/NotFoundPage.module.css"],"names":[],"mappings":"AAAA,2BACE,eAAgB,CAChB,SAAU,CACV,eAAgB,CAChB,cAAe,CACf,iBACF","file":"7.fce5d5e1.chunk.css","sourcesContent":[".title {\n  margin-top: 20px;\n  color: red;\n  font-weight: 500;\n  font-size: 24px;\n  text-align: center;\n}\n"]}

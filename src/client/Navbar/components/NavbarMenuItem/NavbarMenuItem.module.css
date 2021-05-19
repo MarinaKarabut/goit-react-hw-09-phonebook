@@ -1,0 +1,11 @@
+.navbarMenuLink {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 15px;
+  color: black;
+}
+
+.navbarMenuLink.active {
+  background-color: forestgreen;
+  color: #fff;
+}
