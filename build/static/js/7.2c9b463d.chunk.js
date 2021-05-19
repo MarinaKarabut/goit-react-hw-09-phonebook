@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[7],{119:function(t,e,n){t.exports={title:"NotFoundPage_title__1_DZp"}},124:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return r}));n(0);var o=n(119),c=n.n(o),i=n(1),r=function(){return Object(i.jsx)(i.Fragment,{children:Object(i.jsx)("h1",{className:c.a.title,children:"Page not found"})})}}}]);
+//# sourceMappingURL=7.2c9b463d.chunk.js.map
